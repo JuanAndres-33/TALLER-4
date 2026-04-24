@@ -95,3 +95,6 @@ Permite consultar:
 - https://patorjk.com/software/taag/ (ASCII art)
 - https://www.asciiart.eu/
 - Referencias de pixel art de banderas (Google Imágenes)
+
+### 📝 Presentación 
+https://canva.link/8p6o1fwfmqidr4f
