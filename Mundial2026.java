@@ -4,6 +4,8 @@ public class Mundial2026 {
 
     public static void main(String[] args) {
 
+        try {
+
         Scanner sc = new Scanner(System.in);
 
         // ===== COLORES ANSI =====
@@ -653,10 +655,15 @@ System.out.println(AMARILLO +
                 default:
                     System.out.println(ROJO + "Opcion invalida. Intenta de nuevo." + RESET);
 
-            } // fin switch
+            } 
 
-        } // fin while principal
+        } 
 
         sc.close();
-    } // fin main
+         mostrarMenu();
+        } catch (Exception e) {
+            System.out.println("Error: " + e.getMessage());
+        }
+       
+    } 
 }
