@@ -4,7 +4,7 @@ public class Mundial2026 {
 
     public static void main(String[] args) {
 
-        try {
+    try {
 
         Scanner sc = new Scanner(System.in);
 
